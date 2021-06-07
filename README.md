@@ -1,5 +1,5 @@
 # 2021_study_Swift
-swift study 기본문법
+##swift study 기본문법
 
 1주차
 2주차
